@@ -1,0 +1,7 @@
+# autosave
+*.autosave
+
+#Energy label downloads are too large
+data_energy_labels
+
+
